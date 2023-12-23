@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Music/static/css/main.819ee9d3.css",
-    "main.js": "/Music/static/js/main.ba286b68.js",
+    "main.css": "/Music/static/css/main.6c60eaf0.css",
+    "main.js": "/Music/static/js/main.c364674c.js",
     "static/media/gabon.jpeg": "/Music/static/media/gabon.91563167fb5b0dfd99e9.jpeg",
     "static/media/Spotify.png": "/Music/static/media/Spotify.05743c1c1334ff6f6630.png",
     "static/media/Itunes.png": "/Music/static/media/Itunes.2228dbd7ee687f5202dd.png",
@@ -9,11 +9,11 @@
     "static/media/album.webp": "/Music/static/media/album.169b42c2fc2c41bb803c.webp",
     "static/media/Deezer.svg": "/Music/static/media/Deezer.7ad4ced4aed2f483fd9069b21de5ff0b.svg",
     "index.html": "/Music/index.html",
-    "main.819ee9d3.css.map": "/Music/static/css/main.819ee9d3.css.map",
-    "main.ba286b68.js.map": "/Music/static/js/main.ba286b68.js.map"
+    "main.6c60eaf0.css.map": "/Music/static/css/main.6c60eaf0.css.map",
+    "main.c364674c.js.map": "/Music/static/js/main.c364674c.js.map"
   },
   "entrypoints": [
-    "static/css/main.819ee9d3.css",
-    "static/js/main.ba286b68.js"
+    "static/css/main.6c60eaf0.css",
+    "static/js/main.c364674c.js"
   ]
 }
