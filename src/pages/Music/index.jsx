@@ -9,6 +9,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleDown } from '@fortawesome/free-solid-svg-icons';
 
 function Music() {
+
+
   const lienSpotify = 'https://open.spotify.com/intl-fr/album/6rzDO1vZMEsQSiliBLueow';
   const lienDeezer = 'https://www.deezer.com/en/album/252797352';
   const lienYoutube = 'https://www.youtube.com/';
@@ -93,6 +95,9 @@ function Music() {
             <button className='btn-1 custom-btn' onClick={() => openLink(lienItunes)}>
               Écouter
             </button>
+          </li>
+          <li><div className='window'> 
+          </div>
           </li>
         </ul>
       </div>
